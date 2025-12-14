@@ -17,7 +17,7 @@ This service does the following:
 - Compares the product against a **user-maintained compliance fee list**.
 - Returns the **applicable compliance fees** for that product in the given state.
 
-> 💡 The compliance fee list is fully customizable — users can add, update, or remove fees as needed without modifying application code.
+> 💡 The compliance fee list is fully customizable — users can add, update, or remove fees as needed without modifying application code through the application.properties.
 
 ---
 
